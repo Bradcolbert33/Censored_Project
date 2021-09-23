@@ -1,4 +1,4 @@
-package com.CensoredTv.tests.base;
+package com.CensoredTv.tests;
 
 import com.CensoredTv.pages.censoredLoginPage;
 import com.CensoredTv.utilities.Driver;
